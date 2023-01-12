@@ -6,8 +6,7 @@ Repository link:
 https://github.com/Jayraj-Malamdi/git-practical 
 
 pdf file link :
-
-https://simformsolutionspvtltd-my.sharepoint.com/:b:/r/personal/jayraj_simformsolutions_com/Documents/Jayraj_Github_practical_exam.pdf?csf=1&web=1&e=hBRS6C
+(https://simformsolutionspvtltd-my.sharepoint.com/:b:/g/personal/jayraj_simformsolutions_com/Eeb6tiTRxsdFtulbk-cBKSsBhdLhBuXMQkOoqWm2OjBZSg?e=DFNsF5)
 
 ## Work on below points: 
 
